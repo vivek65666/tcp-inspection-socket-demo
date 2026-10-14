@@ -21,8 +21,8 @@ Python, socket, threading, json
 
 **Server**
 
-![Server output](server-output.png)
+![Server output](server.png)
 
 **Client**
 
-![Client output](client-output.png)
+![Client output](client.png)
