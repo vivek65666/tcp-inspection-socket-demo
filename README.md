@@ -16,3 +16,13 @@ python client.py
 
 ## Tech
 Python, socket, threading, json
+
+## Output
+
+**Server**
+
+![Server output](server-output.png)
+
+**Client**
+
+![Client output](client-output.png)
